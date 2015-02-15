@@ -1,0 +1,7 @@
+git stash  - command which will remove unnecessary and added but uncommited file from developer's current point of time
+
+git stash apply - command which will add earlier bypassed unnecessary and added but uncommited file from developer's current point of time
+
+
+
+
